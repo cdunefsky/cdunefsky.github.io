@@ -16,8 +16,10 @@ Graduate.
 
 ### 1 Year After
 **2022**
+
 It's cold here.
 
 ### 2 Years After
 **2023**
+
 Did I find a job yet?
