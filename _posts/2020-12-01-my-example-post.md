@@ -6,4 +6,4 @@ date:   2020-12-01 21:21:21 +0530
 categories: ["University of North Carolina at Greensboro"]
 ---
 
-<center> [Click here to see the libguide.]( https://uncg-lis.libguides.com/PackNCRoom/Home) </center>
+[Click here to see the libguide.]( https://uncg-lis.libguides.com/PackNCRoom/Home)
