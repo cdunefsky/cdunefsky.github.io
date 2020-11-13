@@ -1,6 +1,7 @@
 ---
 layout: page
-Hello My Name is Chadwick Dunefsky
+title: Hello
+subtitle: My name is Chadwick Dunefsky
 sitemap:
   priority: 0.9
 ---
