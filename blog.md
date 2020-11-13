@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: Portfolio
 ---
 
 <div>
@@ -9,10 +8,10 @@ subtitle: Select ramblings of Pudhina
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
 <strong>
-{% if category.name %} 
-- - - - -  {{ category.name }} - - - - - 
-{% else %} 
-{{ Print }} 
+{% if category.name %}
+- - - - -  {{ category.name }} - - - - -
+{% else %}
+{{ Print }}
 {% endif %}
 </strong>
 </h4>
