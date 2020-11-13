@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 ---
-
+<!--
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
@@ -27,3 +27,4 @@ title: Portfolio
 </ul>
 {% endfor %}
 </div>
+-->
