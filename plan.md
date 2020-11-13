@@ -15,9 +15,9 @@ More prereqs.
 Graduate.
 
 ### 1 Year After
-**2022**
+**2022** <span style="float: right; "></span>
 It's cold here.
 
 ### 2 Years After
-**2023**
+**2023** <span style="float: right; "></span> 
 Did I find a job yet?
