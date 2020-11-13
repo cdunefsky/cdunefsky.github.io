@@ -1,5 +1,5 @@
 # Site settings
-title: Pudhina
+title: Chadwick Dunefsky
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,10 +7,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://cdunefsky.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Chadwick Dunefsky
+  # github: github
+  linkedin: https://www.linkedin.com/in/chadwick-dunefsky-1b7259140/
+#  email: example@email.com
 
 
 # Syntax highlighting
