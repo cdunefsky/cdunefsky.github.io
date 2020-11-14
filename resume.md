@@ -7,10 +7,10 @@ title: Résumé
 **GlaxoSmithKline** - RTP <span style="float: right; ">2020</span>  
 Archival Sciences Assistant.
 
-**North Carolina State University: Special Collections** - Raleigh <span style="float: right; ">2020</span>  
+**North Carolina State University: Special Collections** - Raleigh <span style="float: right; ">2019-2020</span>  
 Graduate Digitization Assistant
 
-**North Carolina State University: History Department** - Raleigh <span style="float: right; ">2020</span>  
+**North Carolina State University: History Department** - Raleigh <span style="float: right; ">2019-2020</span>  
 Teaching and Research Assistant
 
 **Chapel Hill Historical Society** - Chapel Hill <span style="float: right; ">2020</span>  
