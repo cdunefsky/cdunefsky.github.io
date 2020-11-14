@@ -4,11 +4,8 @@ title: Future Goals
 subtitle: I have no goals.
 ---
 
-### These are my future goals.
-```   ```  
-
-
 ### What I Plan on Doing at UNCG
+
 **First Semester** <span style="float: right; ">Fall 2020</span>  
 _Description Prereqs.;_
 
@@ -22,6 +19,7 @@ Internship.
 Graduate.
 
 ### After Graduation
+
 **1 Year After** <span style="float: right; ">2022</span>
 It's cold here.
 
