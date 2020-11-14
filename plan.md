@@ -11,6 +11,9 @@ Prereqs.
 **Second Semester** <span style="float: right; ">Spring 2021</span>  
 More prereqs.
 
+**Summer** <span style="float: right; ">Summer 2021</span>  
+Internship.
+
 **Third Semester** <span style="float: right; ">Fall 2021</span>  
 Graduate.
 
@@ -19,5 +22,5 @@ Graduate.
 It's cold here.
 
 ### 2 Years After
-**2023** <span style="float: right; "></span> 
+**2023** <span style="float: right; "></span>
 Did I find a job yet?
