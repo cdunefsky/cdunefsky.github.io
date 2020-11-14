@@ -17,10 +17,9 @@ Internship.
 **Third Semester** <span style="float: right; ">Fall 2021</span>  
 Graduate.
 
-### 1 Year After
-**2022** <span style="float: right; "></span>
+### After Graduation
+**1 Year After** <span style="float: right; ">2022</span>
 It's cold here.
 
-### 2 Years After
-**2023** <span style="float: right; "></span>
+**2 Years After** <span style="float: right; ">2023</span>
 Did I find a job yet?
