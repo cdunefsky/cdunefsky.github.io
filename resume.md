@@ -43,7 +43,7 @@ Curatorial and Collections/Bibliography Intern
 **Library of Congress** - Washington DC <span style="float: right; ">2016 and 2017</span>  
 Research/Bibliography Intern
 
-### EDUCATION
+### Education
 
 University of North Carolina at Greensboro <span style="float: right; ">Expected December 2021</span>  
 
