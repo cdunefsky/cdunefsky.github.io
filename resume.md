@@ -2,6 +2,18 @@
 layout: page
 title: Résumé
 ---
+### Skills
+**Museum, Archives, and Library Systems**
+Bibliocommons Past Perfect, Mimsy XG, Sierra, QI
+
+**Trainings**
+Oral History (one-month workshop), Reference Interviews (two-month workshop)
+
+**Languages**
+American Sign Language
+
+**Programming Languages and Technologies**
+HTML, CSS
 
 ### Work Experience
 **GlaxoSmithKline** - RTP <span style="float: right; ">Present</span>  
