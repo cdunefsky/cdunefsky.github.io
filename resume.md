@@ -4,7 +4,7 @@ title: Résumé
 ---
 
 ### Work Experience
-**GlaxoSmithKline** - RTP <span style="float: right; ">2020</span>  
+**GlaxoSmithKline** - RTP <span style="float: right; ">Present</span>  
 Archival Sciences Assistant.
 
 **North Carolina State University: Special Collections** - Raleigh <span style="float: right; ">2019-2020</span>  
