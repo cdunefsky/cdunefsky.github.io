@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Oral Histories of African American Women's Exclusion from 1970s United States Feminism"
+title:  "Oral Histories of African American Women"
 date:   2018-01-01 21:21:21 +053
 categories: ["University of North Carolina at Chapel Hill"]
 ---
