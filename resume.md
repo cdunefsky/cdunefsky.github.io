@@ -25,9 +25,6 @@ Oral Historian
 **Sloane Art Library** - Chapel Hill <span style="float: right; ">2020</span>  
 Student Assistant
 
-**Sloane Art Library** - Chapel Hill <span style="float: right; ">2020</span>  
-Student Assistant
-
 **Smithsonian Museum of American History** - Washington DC <span style="float: right; ">2018-2019</span>
 Curatorial and Collections/Bibliography Intern
 
