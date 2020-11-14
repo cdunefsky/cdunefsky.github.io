@@ -6,16 +6,16 @@ title: Résumé
 **Museum, Archives, and Library Systems**  
 Bibliocommons, Past Perfect, Mimsy XG, Sierra, QI
 
-**Museum, Archives, and Library Systems**
+**Museum, Archives, and Library Systems**  
 Bibliocommons Past Perfect, Mimsy XG, Sierra, QI
 
-**Trainings**
+**Trainings**  
 Oral History (one-month workshop), Reference Interviews (two-month workshop)
 
-**Languages**
+**Languages**  
 American Sign Language
 
-**Programming Languages and Technologies**
+**Programming Languages and Technologies**  
 HTML, CSS
 
 ### Work Experience
