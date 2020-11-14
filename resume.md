@@ -42,3 +42,11 @@ Curatorial and Collections/Bibliography Intern
 
 **Library of Congress** - Washington DC <span style="float: right; ">2016 and 2017</span>  
 Research/Bibliography Intern
+
+### EDUCATION
+
+University of North Carolina at Greensboro <span style="float: right; ">Expected December 2021</span>  
+
+University of North Carolina at Chapel Hill <span style="float: right; ">December 2018</span>  
+
+Montgomery College at Rockville, Maryland <span style="float: right; ">May 2017</span>  
