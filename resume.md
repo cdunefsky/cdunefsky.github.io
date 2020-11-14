@@ -6,9 +6,6 @@ title: Résumé
 **Museum, Archives, and Library Systems**  
 Bibliocommons, Past Perfect, Mimsy XG, Sierra, QI
 
-**Museum, Archives, and Library Systems**  
-Bibliocommons Past Perfect, Mimsy XG, Sierra, QI
-
 **Trainings**  
 Oral History (one-month workshop), Reference Interviews (two-month workshop)
 
