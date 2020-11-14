@@ -18,7 +18,7 @@ Internship.
 **Third Semester** <span style="float: right; ">Fall 2021</span>  
 Graduate.
 
-### What I Plan on Doing at UNCG
+### After Graduation
 
 **1 Yr** <span style="float: right; ">2022</span>  
 Job
