@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Goals
-subtitle:
+subtitle: The Future is Scary
 ---
 
 ### What I Plan on Doing at University of North Carolina at Greensboro (UNCG)
@@ -21,7 +21,10 @@ This semester will be my last at UNCG. I plan on enrolling in "Library administr
 ### After Graduation
 
 **1 Year Out** <span style="float: right; ">2022</span>  
-If my job search was successful, I am likely at a public library or an archive. I plan on using this year to become involved with my state archivist organization and to attend their annual meeting. If I moved for my job, I also plan on using this year to get used to my new place and to settle in before starting on any grand ambitions. If my job search was not successful, I will continue to use this year to search for jobs and work part-time on the side. 
+If my job search was successful, I am likely at a public library or an archive. I plan on using this year to become involved with my state archivist organization and to attend their annual meeting. If I moved for my job, I also plan on using this year to get used to my new place and to settle in before starting on any grand ambitions. If my job search was not successful, I will continue to use this year to search for jobs and work part-time on the side.
 
 **2 Years Out** <span style="float: right; ">2023</span>  
-Job
+This year will hopefully be my second at my new job. I plan on using this year to stretch in my career and to host and suggest new ideas to my institution. I plan on gathering and developing these ideas during my time at UNCG.
+
+**3 Years Out** <span style="float: right; ">2023</span>  
+I will return to fill this section out when I am in my last semester at UNCG.

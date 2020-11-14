@@ -45,11 +45,11 @@ Research/Bibliography Intern
 
 ### Education
 
-University of North Carolina at Greensboro <span style="float: right; ">Expected December 2021</span>   
-**Master of Science Candidate, Library Science with a concentration in Public Libraries and Archives**
+**University of North Carolina at Greensboro** <span style="float: right; ">Expected December 2021</span>   
+Master of Science Candidate, Library Science with a concentration in Public Libraries and Archives
 
-University of North Carolina at Chapel Hill <span style="float: right; ">December 2018</span>    
-**Bachelor of Arts, Major: Gender and Women Studies in American History, Minor: Art History**
+**University of North Carolina at Chapel Hill** <span style="float: right; ">December 2018</span>    
+Bachelor of Arts, Major: Gender and Women Studies in American History, Minor: Art History
 
-Montgomery College at Rockville, Maryland <span style="float: right; ">May 2017</span>  
-**Associate of Arts, Humanities Focus**
+**Montgomery College at Rockville, Maryland** <span style="float: right; ">May 2017</span>  
+Associate of Arts, Humanities Focus
