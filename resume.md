@@ -4,6 +4,9 @@ title: Résumé
 ---
 ### Skills
 **Museum, Archives, and Library Systems**
+Bibliocommons, Past Perfect, Mimsy XG, Sierra, QI
+
+**Museum, Archives, and Library Systems**
 Bibliocommons Past Perfect, Mimsy XG, Sierra, QI
 
 **Trainings**
