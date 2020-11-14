@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Goals
-subtitle: I have no goals.
+subtitle:
 ---
 
 ### What I Plan on Doing at UNCG
@@ -20,8 +20,8 @@ Graduate.
 
 ### After Graduation
 
-**1 Yr** <span style="float: right; ">2022</span>  
+**1 Year Out** <span style="float: right; ">2022</span>  
 Job
 
-**2 Yr** <span style="float: right; ">2023</span>  
+**2 Years Out** <span style="float: right; ">2023</span>  
 Job
