@@ -25,8 +25,8 @@ Oral Historian
 **Sloane Art Library** - Chapel Hill <span style="float: right; ">2017-2018</span>  
 Student Assistant
 
-**Smithsonian Museum of American History** - Washington DC <span style="float: right; ">2017-2018</span>  
+**Smithsonian Museum of American History** - Washington DC <span style="float: right; ">2017</span>  
 Curatorial and Collections/Bibliography Intern
 
-**Library of Congress** - Washington DC <span style="float: right; ">2017-2018</span>  
+**Library of Congress** - Washington DC <span style="float: right; ">2016 and 2017</span>  
 Research/Bibliography Intern
