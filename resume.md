@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 ---
 ### Skills
-**Museum, Archives, and Library Systems**  
+**Museums, Archives, and Library Systems**  
 Bibliocommons, Past Perfect, Mimsy XG, Sierra, QI
 
 **Trainings**  
