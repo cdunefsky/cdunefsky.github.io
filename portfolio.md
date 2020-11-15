@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+subtitle: Click a project to learn more about it! 
 ---
 <div>
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
