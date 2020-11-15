@@ -16,25 +16,25 @@ American Sign Language
 HTML, CSS
 
 ### Work Experience
-**GlaxoSmithKline** - RTP <span style="float: right; ">Present</span>  
+**GlaxoSmithKline** - RTP, NC <span style="float: right; ">Present</span>  
 Archival Sciences Assistant
 
-**North Carolina State University: Special Collections** - Raleigh <span style="float: right; ">2019-2020</span>  
+**North Carolina State University: Special Collections** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
 Graduate Digitization Assistant
 
-**North Carolina State University: History Department** - Raleigh <span style="float: right; ">2019-2020</span>  
+**North Carolina State University: History Department** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
 Teaching and Research Assistant
 
-**Chapel Hill Historical Society** - Chapel Hill <span style="float: right; ">2019</span>  
+**Chapel Hill Historical Society** - Chapel Hill, NC <span style="float: right; ">2019</span>  
 Archival Sciences Assistant
 
-**Chapel Hill Public Library** - Chapel Hill <span style="float: right; ">2018-2019</span>  
+**Chapel Hill Public Library** - Chapel Hill, NC <span style="float: right; ">2018-2019</span>  
 Library Assistant
 
-**The Center for the Study of the American South** - Chapel Hill <span style="float: right; ">2018</span>  
+**The Center for the Study of the American South** - Chapel Hill, NC <span style="float: right; ">2018</span>  
 Oral Historian
 
-**Sloane Art Library** - Chapel Hill <span style="float: right; ">2017-2018</span>  
+**Sloane Art Library** - Chapel Hill, NC <span style="float: right; ">2017-2018</span>  
 Student Assistant
 
 **Smithsonian Museum of American History** - Washington DC <span style="float: right; ">2017</span>  
