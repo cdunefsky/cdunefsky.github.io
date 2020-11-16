@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Résumé
+subtitle: Full résumé available on request. 
 ---
 ### Skills
 **Museums, Archives, and Library Systems**  
