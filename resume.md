@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: Full résumé available on request. 
+subtitle: Full résumé available on request.
 ---
 ### Skills
 **Museums, Archives, and Library Systems**  
@@ -20,11 +20,8 @@ HTML, CSS
 **GlaxoSmithKline** - RTP, NC <span style="float: right; ">Present</span>  
 Archival Sciences Assistant
 
-**North Carolina State University: Special Collections** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
+**D. H. Hill Jr. Library, Special Collections** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
 Graduate Digitization Assistant
-
-**North Carolina State University: History Department** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
-Teaching and Research Assistant
 
 **Chapel Hill Historical Society** - Chapel Hill, NC <span style="float: right; ">2019</span>  
 Archival Sciences Assistant
