@@ -21,7 +21,7 @@ HTML, CSS
 Archival Sciences Assistant
 
 **D. H. Hill Jr. Library, Special Collections** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
-Graduate Digitization Assistant
+Digitization Assistant
 
 **Chapel Hill Historical Society** - Chapel Hill, NC <span style="float: right; ">2019</span>  
 Archival Sciences Assistant
