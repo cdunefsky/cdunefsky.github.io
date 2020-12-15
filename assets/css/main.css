@@ -224,6 +224,10 @@
       text-align: center;
       width: 100%; }
 
+     a:hover {
+     color: hotpink;
+             }
+
   }
 
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
