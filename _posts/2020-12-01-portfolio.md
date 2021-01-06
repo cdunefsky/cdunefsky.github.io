@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Portfolio"
-date:   Fall 2020
+date:   2020-12-01 21:21:21 +053
 categories: ["University of North Carolina at Greensboro"]
 ---
 
