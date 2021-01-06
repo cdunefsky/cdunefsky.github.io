@@ -10,4 +10,4 @@ This website highlights an abridged version of my resume and my projects over th
 
 
 
-[If you would like to see the GitHub source code, please click here.](cdunefsky.github.io)
+[If you would like to see the GitHub source code, please click here.](https://github.com/cdunefsky/cdunefsky.github.io)
