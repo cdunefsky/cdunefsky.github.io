@@ -9,4 +9,4 @@ This website was built in Jekyll, using a modified version of Pudhina's template
 
 
 
-[If you would like to see the GitHub source code, please click below.](cdunefsky.github.io)
+[If you would like to see the GitHub source code, please click here.](cdunefsky.github.io)
