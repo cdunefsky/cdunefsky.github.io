@@ -16,6 +16,6 @@ The second part of the project consisted of a libguide (click below to see our l
 The last part of the project was a Five-Year Collection Management Plan providing specific steps for the North Carolina Room to take to improve their collection (click below to read). This management plan featured feasible goals on how the North Carolina Room could expand its resources on the aforementioned mini collections.
 With a team of four, we created a libguide for the North Carolina Room in Asheville.
 
-[Click here to read the environmental scan.]({{cdunefsky.github.io}}/assets/docs/environmentalscan.pdf)
-[Click here to see the libguide.]( https://uncg-lis.libguides.com/PackNCRoom/Home)
-[Click here to read the Collection Management Plan.]({{cdunefsky.github.io}}/assets/docs/collectionplan.pdf)
+[Click here to read the environmental scan.]({{cdunefsky.github.io}}/assets/docs/environmentalscan.pdf)  
+[Click here to see the libguide.]( https://uncg-lis.libguides.com/PackNCRoom/Home)  
+[Click here to read the Collection Management Plan.]({{cdunefsky.github.io}}/assets/docs/collectionplan.pdf)  
