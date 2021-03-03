@@ -7,7 +7,7 @@ subtitle: Full résumé available on request.
 **Archives, and Library Systems**  
 Bibliocommons, Mimsy XG, Past Perfect, Sierra, Qi
 
-**Library Skills** 
+**Library Skills**   
 Customer Service, Finding Aids, Libguides, Reader’s Advisory, Reference Interviews
 
 **Trainings**  
