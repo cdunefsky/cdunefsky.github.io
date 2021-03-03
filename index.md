@@ -5,5 +5,5 @@ subtitle: My name is Chadwick Dunefsky (he/him/his). Welcome to my portfolio. I 
 sitemap:
   priority: 0.9
 ---
-fewf
+
 <img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" id="about-img">

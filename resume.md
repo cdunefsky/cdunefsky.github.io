@@ -51,7 +51,7 @@ Research Intern
 ### Education
 
 **University of North Carolina at Greensboro** <span style="float: right; ">Expected December 2021</span>     
-Master of Science Candidate
+Master of Science Candidate  
 Specialized in Archives and Public Libraries
 
 **University of North Carolina at Chapel Hill** <span style="float: right; ">December 2018</span>  
