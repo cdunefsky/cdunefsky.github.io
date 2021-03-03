@@ -48,6 +48,7 @@ Master of Science Candidate, Library Science with a concentration in Public Libr
 
 **University of North Carolina at Chapel Hill** <span style="float: right; ">December 2018</span>    
 Bachelor of Arts, Major: Gender and Women Studies in American History, Minor: Art History
+Blah
 
 **Montgomery College at Rockville, Maryland** <span style="float: right; ">May 2017</span>  
 Associate of Arts, Humanities Focus
