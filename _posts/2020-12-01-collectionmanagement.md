@@ -2,7 +2,7 @@
 layout: page
 title:  "3. Collection Management"
 date:   2020-12-01 21:21:21 +0530
-categories: ["University of North Carolina at Greensboro"]
+categories: ["University of North Carolina at Greensboro, North Carolina"]
 ---
 
 In my fall (2020) semester, I enrolled in LIS 610: Collection Management, a class centered around trends and emerging technologies on collection development within the world of libraries.   

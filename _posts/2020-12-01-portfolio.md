@@ -2,7 +2,7 @@
 layout: page
 title:  "1. Portfolio"
 date:   2020-12-01 21:21:21 +053
-categories: ["University of North Carolina at Greensboro"]
+categories: ["University of North Carolina at Greensboro, North Carolina"]
 ---
 
 This website was built in Jekyll, using a modified version of Pudhina's template. I created this portfolio for one of my library science courses, LIS 600, Foundations of Library and Information.   
