@@ -4,20 +4,24 @@ title: Résumé
 subtitle: Full résumé available on request.
 ---
 ### Skills
-**Museums, Archives, and Library Systems**  
-Bibliocommons, Past Perfect, Mimsy XG, Sierra, QI
+**Archives, and Library Systems**  
+Bibliocommons, Mimsy XG, Past Perfect, Sierra, Qi
+
+**Library Skills** 
+Customer Service, Finding Aids, Libguides, Reader’s Advisory, Reference Interviews
 
 **Trainings**  
 Oral History (one-month workshop), Reference Interviews (two-month workshop)
 
 **Languages**  
-American Sign Language
+American Sign Language (Fluent)
 
 **Programming Languages and Technologies**  
-HTML, CSS
+Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel ,PowerPoint,
+and Outlook)
 
 ### Work Experience
-**GlaxoSmithKline** - RTP, NC <span style="float: right; ">Present</span>  
+**GlaxoSmithKline** - RTP, NC <span style="float: right; ">2020-2021</span>  
 Archival Sciences Assistant
 
 **D. H. Hill Jr. Library, Special Collections** - Raleigh, NC <span style="float: right; ">2019-2020</span>  
@@ -35,11 +39,14 @@ Oral Historian
 **Sloane Art Library** - Chapel Hill, NC <span style="float: right; ">2017-2018</span>  
 Student Assistant
 
+**Library of Congress** - Washington DC <span style="float: right; ">2017</span>  
+Research Intern
+
 **Smithsonian Museum of American History** - Washington DC <span style="float: right; ">2017</span>  
 Curatorial and Collections/Bibliography Intern
 
-**Library of Congress** - Washington DC <span style="float: right; ">2016 and 2017</span>  
-Research/Bibliography Intern
+**Library of Congress** - Washington DC <span style="float: right; ">2016</span>  
+Research Intern
 
 ### Education
 
