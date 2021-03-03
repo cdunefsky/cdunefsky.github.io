@@ -7,4 +7,4 @@ My current academic interests lie in learning how libraries serve as a space to 
 
 As a historian, I am interested in gender and LGBTQIA+ issues throughout United States history with a primary focus on the latter half of the twentieth century.
 
-In my free time, I enjoy a nice coffee shop or bubble tea shop with an opened journal by my side. My most recent favorite read was A Little Life by Hanya Yanagihara. 
+In my free time, I enjoy a nice coffee shop or bubble tea shop with an opened journal by my side. My most recent favorite read was "The Goldfinch" by Donna Tartt. 
