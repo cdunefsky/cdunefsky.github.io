@@ -52,4 +52,4 @@ Bachelor of Arts in History
 Specialized in American History with a concentration in Women’s and Gender History
 
 **Montgomery College at Rockville, Maryland** <span style="float: right; ">May 2017</span>  
-Associate of Arts, Humanities Focus
+Associate of Arts in Humanities
