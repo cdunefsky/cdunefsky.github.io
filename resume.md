@@ -17,8 +17,7 @@ Oral History (one-month workshop), Reference Interviews (two-month workshop)
 American Sign Language (Fluent)
 
 **Programming Languages and Technologies**  
-Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel ,PowerPoint,
-and Outlook)
+Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel, PowerPoint, and Outlook)
 
 ### Work Experience
 **GlaxoSmithKline** - RTP, NC <span style="float: right; ">2020-2021</span>  
