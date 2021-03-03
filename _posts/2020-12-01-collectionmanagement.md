@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Collection Management"
+title:  "3. Collection Management"
 date:   2020-12-01 21:21:21 +0530
 categories: ["University of North Carolina at Greensboro"]
 ---

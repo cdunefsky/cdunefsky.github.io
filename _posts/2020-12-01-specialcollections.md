@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Organizational Memory and Business Archives"
+title:  "2. Organizational Memory and Business Archives"
 date:   2020-12-01 21:21:21 +0530
 categories: ["University of North Carolina at Greensboro"]
 ---
