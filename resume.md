@@ -7,7 +7,7 @@ subtitle: Full résumé available on request.
 **Archives, and Library Systems**  
 Bibliocommons, Mimsy XG, Past Perfect, Sierra, Qi
 
-**Library Skills**   
+**Archive and Library Skills**   
 Customer Service, Finding Aids, Libguides, Reader’s Advisory, Reference Interviews
 
 **Trainings**  
@@ -16,7 +16,7 @@ Oral History (one-month workshop), Reference Interviews (two-month workshop)
 **Languages**  
 American Sign Language (Fluent)
 
-**Programming Languages and Technologies**  
+**Technologies**  
 Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel, PowerPoint, and Outlook)
 
 ### Work Experience

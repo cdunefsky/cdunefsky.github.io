@@ -14,7 +14,6 @@ The first part was an environmental scan of the North Carolina Room (click below
 The second part of the project consisted of a libguide (click below to see our libguide). Each member created a mini-collection pertaining to a collection they felt that the North Carolina Room was missing. This collection features a variety of material that the North Carolina Room could purchase or add to their website to bolster their resources. Each mini-collection culminated into a front page that advocated the need for each of these mini-collections.
 
 The last part of the project was a Five-Year Collection Management Plan providing specific steps for the North Carolina Room to take to improve their collection (click below to read). This management plan featured feasible goals on how the North Carolina Room could expand its resources on the aforementioned mini collections.
-With a team of four, we created a libguide for the North Carolina Room in Asheville.
 
 [Click here to read the environmental scan.]({{cdunefsky.github.io}}/assets/docs/environmentalscan.pdf)  
 [Click here to see the libguide.]( https://uncg-lis.libguides.com/PackNCRoom/Home)  
