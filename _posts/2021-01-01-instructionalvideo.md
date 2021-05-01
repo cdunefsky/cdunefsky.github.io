@@ -9,6 +9,6 @@ In my Spring 2021 semester at UNCG, I enrolled in LIS 620 -  Information Sources
 
 
 Here's the video!
-<video width="480" height="320" controls="controls">
+<video width="960" height="640" controls="controls">
   <source src="/assets/vid/instructionalvideo.mp4" type="video/mp4">
 </video>
