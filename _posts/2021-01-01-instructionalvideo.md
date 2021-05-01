@@ -8,7 +8,7 @@ categories: ["University of North Carolina at Greensboro, North Carolina"]
 In my Spring 2021 semester at UNCG, I enrolled in LIS 620 -  Information Sources and Services. For this course, I created an instructional video, using OBS (https://obsproject.com/) to educate students on how to use The National Council on Public History's new resource, the "Digital Public History Directory." This directory is intended to host primarily digital projects relating to public history.
 
 
+Here's the video!
 <video width="480" height="320" controls="controls">
   <source src="/assets/vid/instructionalvideo.mp4" type="video/mp4">
 </video>
-[If you would like to watch the video, please click here.](https://uncgeducationaltoolkit.github.io/index.html)
