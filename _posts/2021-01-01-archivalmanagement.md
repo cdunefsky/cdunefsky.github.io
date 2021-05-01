@@ -5,9 +5,8 @@ date:   2021-12-01 21:21:21 +053
 categories: ["University of North Carolina at Greensboro, North Carolina"]
 ---
 
-This website was built in Jekyll, using a modified version of Pudhina's template. I created this portfolio for one of my library science courses, LIS 600, Foundations of Library and Information.   
-This website highlights an abridged version of my resume and my projects over the years. I plan on adding to this website over the course of my time at UNCG and my career beyond.
+In my Spring 2021 semester at UNCG, I enrolled in LIS 658 - Archival Management. In this course, I worked with three people in creating a recommendation for a local artist on how her work might be used in an educational context. The culmination of this project is a website (featured below), built on HTML and CSS using Github Pages. The website features toolkits my group created to demonstrate how her work could be used in an educational context. My primary responsibility was creating the website.
 
 
 
-[If you would like to see the GitHub source code, please click here.](https://github.com/cdunefsky/cdunefsky.github.io)
+[If you would like to see the website we created, please click here.](https://uncgeducationaltoolkit.github.io/index.html)
