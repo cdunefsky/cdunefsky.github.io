@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "2. Oral Histories of African American Women"
+title:  "Oral Histories of African American Women"
 date:   2018-01-01 21:21:21 +053
 categories: ["University of North Carolina at Chapel Hill, North Carolina"]
 ---
