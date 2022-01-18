@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "How to Scan a Document With Your Phone"
+title:  "WCPL: How to Scan a Document With Your Phone"
 date:   2022-01-01 21:21:21 +053
 categories: ["At a Library"]
 ---
