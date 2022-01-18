@@ -59,6 +59,7 @@ Research Intern
 ### Profesional Development
 
 **First Wednesday Staff Directory Usability Test Presentation** - Durham NC <span style="float: right; ">2021</span>
+Digital PowerPoint presented at Duke Libraries' AUX monthly First Wednesday meeting. 
 
 **How to Feel Safe on a College Campus: The Contributions of Justine Hollingshead** - Raleigh NC <span style="float: right; ">2019</span>
 Video presented at annual Firsts program. 
