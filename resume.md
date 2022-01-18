@@ -5,7 +5,7 @@ subtitle: Full résumé available on request.
 ---
 ### Skills
 **Archive and Library Systems**  
-Bibliocommons, Mimsy XG, Past Perfect, Sierra, Qi
+Bibliocommons, Horizon, Mimsy XG, Past Perfect, Sierra, Qi
 
 **Archive and Library Skills**   
 Customer Service, Finding Aids, Libguides, Reader’s Advisory, Reference Interviews
@@ -55,6 +55,22 @@ Curatorial and Collections/Bibliography Intern
 
 **Library of Congress** - Washington DC <span style="float: right; ">2016</span>  
 Research Intern
+
+### Profesional Development
+
+**First Wednesday Staff Directory Usability Test Presentation** - Durham NC <span style="float: right; ">2021</span>
+
+**How to Feel Safe on a College Campus: The Contributions of Justine Hollingshead”** - Raleigh NC <span style="float: right; ">2019</span>
+Video presented at annual Firsts program. 
+
+**”Stories to Save Lives”** - Chapel Hill NC <span style="float: right; ">2019</span>
+Poster presented at annual Southern Research Circle Poster Session.
+
+**”Who Am I? A Modernist Somebody or a Postmodernist Nobody?”** - Middletown NY <span style="float: right; ">2017</span>
+Paper presented at annual Beacon Conference.
+
+**”1968: To Put A Massacre and Protests in Words.”** - Rockville MD. <span style="float: right; ">2017</span>
+Paper presented at annual Paul Peck internship orientation.
 
 ### Education
 
