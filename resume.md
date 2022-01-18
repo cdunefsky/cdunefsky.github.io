@@ -56,7 +56,7 @@ Curatorial and Collections/Bibliography Intern
 **Library of Congress** - Washington DC <span style="float: right; ">2016</span>  
 Research Intern
 
-### Profesional Development
+### Professional Development
 
 **First Wednesday Staff Directory Usability Test Presentation** - Durham NC <span style="float: right; ">2021</span>
 
