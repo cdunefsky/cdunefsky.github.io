@@ -60,18 +60,18 @@ Research Intern
 
 **First Wednesday Staff Directory Usability Test Presentation** - Durham NC <span style="float: right; ">2021</span>
 
-**How to Feel Safe on a College Campus: The Contributions of Justine Hollingshead”** - Raleigh NC <span style="float: right; ">2019</span>
+**How to Feel Safe on a College Campus: The Contributions of Justine Hollingshead** - Raleigh NC <span style="float: right; ">2019</span>
 Video presented at annual Firsts program. 
 
-**”Stories to Save Lives”** - Chapel Hill NC <span style="float: right; ">2019</span>
+**Stories to Save Lives** - Chapel Hill NC <span style="float: right; ">2019</span>
 
 Poster presented at annual Southern Research Circle Poster Session.
 
-**”Who Am I? A Modernist Somebody or a Postmodernist Nobody?”** - Middletown NY <span style="float: right; ">2017</span>
+**Who Am I? A Modernist Somebody or a Postmodernist Nobody?** - Middletown NY <span style="float: right; ">2017</span>
 
 Paper presented at annual Beacon Conference.
 
-**”1968: To Put A Massacre and Protests in Words.”** - Rockville MD. <span style="float: right; ">2017</span>
+**1968: To Put A Massacre and Protests in Words** - Rockville MD. <span style="float: right; ">2017</span>
 
 Paper presented at annual Paul Peck internship orientation.
 
