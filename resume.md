@@ -4,7 +4,7 @@ title: Résumé
 subtitle: Full résumé available on request.
 ---
 ### Skills
-**Archives, and Library Systems**  
+**Archive and Library Systems**  
 Bibliocommons, Mimsy XG, Past Perfect, Sierra, Qi
 
 **Archive and Library Skills**   
