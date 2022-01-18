@@ -64,12 +64,15 @@ Research Intern
 Video presented at annual Firsts program. 
 
 **”Stories to Save Lives”** - Chapel Hill NC <span style="float: right; ">2019</span>
+
 Poster presented at annual Southern Research Circle Poster Session.
 
 **”Who Am I? A Modernist Somebody or a Postmodernist Nobody?”** - Middletown NY <span style="float: right; ">2017</span>
+
 Paper presented at annual Beacon Conference.
 
 **”1968: To Put A Massacre and Protests in Words.”** - Rockville MD. <span style="float: right; ">2017</span>
+
 Paper presented at annual Paul Peck internship orientation.
 
 ### Education
