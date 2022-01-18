@@ -1,11 +1,10 @@
 ---
 layout: page
-title:  "Public History LibGuide"
-date:   2021-12-01 21:21:21 +053
-categories: ["University of North Carolina at Greensboro, North Carolina"]
+title:  "How to Use a Disposable Email Service"
+date:   2022-01-01 21:21:21 +053
+categories: ["At a Library"]
 ---
 
-In my Spring 2021 semester at UNCG, I enrolled in LIS 620 -  Information Sources and Services. For this course, I created a LibGuide educating undergraduate students at UNCG on how to do public history work in the triangle area of North Carolina (Chapel Hill, Durham, and Raleigh).
+At Wake County Public Libraries, I created a document on how to transfer documents from a mobile phone to our public computers. This document was intended to advocate for a resource that should be used throughout our library system 
 
-
-[If you would like to see the libguide, please click here.]({{cdunefsky.github.io}}/libguides/620libguide.html)
+[If you would like to see the document, please click here.]({{cdunefsky.github.io}}/assets/docs/Howtouseadisposableemailservice.pdf)
