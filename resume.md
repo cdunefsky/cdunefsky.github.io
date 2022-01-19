@@ -26,7 +26,7 @@ Library Assistant and Holleman Intern
 **Moveworks** - Remote<span style="float: right; ">2021-Present</span>  
 Data Annotator
 
-**Duke University Libraries Assessment & User Experience Department** - Durham, NC <span style="float: right; ">2021-2021</span>  
+**Duke University Libraries' Assessment & User Experience Department** - Durham, NC <span style="float: right; ">2021-2021</span>  
 Practicum Student
 
 **GlaxoSmithKline** - RTP, NC <span style="float: right; ">2020-2021</span>  

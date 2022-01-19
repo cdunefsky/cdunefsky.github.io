@@ -9,4 +9,4 @@ University of North Carolina at Greensboro's MLIS program requires a practicum t
 
 For one of our projects, we created an environmental scan investigating accessibility resources at academic libraries across the United States to provide recommendations for Duke University Libraries. 
 
-[Click here to read the environmental scan.]({{cdunefsky.github.io}}/assets/docs/DukeAUXEnvironmentalScan.pdf)
+[If you would like to read the environmental scan, please click here.]({{cdunefsky.github.io}}/assets/docs/DukeAUXEnvironmentalScan.pdf)

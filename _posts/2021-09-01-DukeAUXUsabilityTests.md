@@ -9,5 +9,5 @@ University of North Carolina at Greensboro's MLIS program requires a practicum t
 
 For one of our projects, we created a usability test to garner feedback on Duke University Library's updated staff directory. We recruited students through a Duke University newsletter and completed these tests virtually over Zoom. Using student feedback, we created a report to provide to the Assessment & User Experience department so they could consider how they might implement changes in future iterations of the staff directory. 
 
-[Click here to read the report.](https://dukespace.lib.duke.edu/dspace/handle/10161/23965)
+[If you would like to read the report, please click here.](https://dukespace.lib.duke.edu/dspace/handle/10161/23965)
 
