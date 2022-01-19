@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Duke University Libraries' Assessment & User Experience Department Usability Tests"
+title:  "Duke University Libraries' Assessment & User Experience Department: Usability Tests"
 date:    2021-09-01 21:21:21 +053
 categories: ["University of North Carolina at Greensboro, North Carolina"]
 ---
