@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Duke AUX Environmental Scan"
+title:  "Duke University Libraries' Assessment & User Experience Department: Environmental Scan"
 date:    2021-09-01 21:21:21 +053
 categories: ["University of North Carolina at Greensboro, North Carolina"]
 ---
