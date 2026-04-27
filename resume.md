@@ -20,11 +20,14 @@ American Sign Language (Fluent)
 Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel, PowerPoint, and Outlook)
 
 ### Work Experience
-**Wake County Public Libraries** - Garner, NC<span style="float: right; ">2021-Present</span>  
-Library Assistant and Holleman Intern
+**The SEMCON Group, LLC** - Egg Harbor Township, New Jersey<span style="float: right; ">2023-2026</span>  
+Technical Writer
 
-**Moveworks** - Remote<span style="float: right; ">2021-Present</span>  
+**Moveworks** - Remote<span style="float: right; ">2021-2023</span>  
 Data Annotator
+
+**Wake County Public Libraries** - Garner, NC<span style="float: right; ">2021-2022</span>  
+Library Assistant and Holleman Intern
 
 **Duke University Libraries' Assessment & User Experience Department** - Durham, NC <span style="float: right; ">2021-2021</span>  
 Practicum Student
