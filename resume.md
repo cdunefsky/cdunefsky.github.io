@@ -19,6 +19,9 @@ American Sign Language (Fluent)
 **Technologies**  
 Adobe (Bridge, Photoshop, and Premiere), CSS, HTML, Microsoft Office Suite (Word, Excel, PowerPoint, and Outlook)
 
+**Technical Writing**
+Confluence, Jira, Jira Insight, Netbox, Microsoft Publisher
+
 ### Work Experience
 **The SEMCON Group, LLC** - Egg Harbor Township, New Jersey<span style="float: right; ">2023-2026</span>  
 Technical Writer
